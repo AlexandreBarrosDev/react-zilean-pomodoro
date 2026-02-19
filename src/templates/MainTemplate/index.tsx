@@ -16,7 +16,7 @@ export function MainTemplate({ children }: mainTemplateProps) {
       <Container>
         <Menu />
       </Container>
-      {children}
+        {children}
       <Container>
         <Footer />
       </Container>
